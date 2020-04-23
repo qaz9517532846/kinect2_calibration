@@ -34,8 +34,16 @@ Step4. Find line 496 in code.
 
 ------then sizeColor(960, 540);
 
+Step5. return ros workspace
+``` bash
+$ cd <ros workspace>
+```
 
-Step5. Run Kinect V2 camera calibration.
+``` bash
+$ catkin_make
+```
+
+Step6. Run Kinect V2 camera calibration.
 ``` bash
 $ rosrun kinect2_calibration kinect2_calibration
 ```
