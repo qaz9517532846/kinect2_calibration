@@ -6,7 +6,7 @@ Need download [iai_kinect2](https://github.com/code-iai/iai_kinect2) .
 Step1. Change camera to edit code.
 
 
-Step2. Open src/kinect2_calibration.cpp file.
+Step2. Open kinect2_calibration/src/kinect2_calibration.cpp file.
 
 
 Step3. Find line 1349 in code.
