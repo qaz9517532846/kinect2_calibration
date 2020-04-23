@@ -34,7 +34,7 @@ Step4. Find line 496 in code.
 
 ------then sizeColor(960, 540);
 
-Step5. return ros workspace
+Step5. return ros workspace.
 ``` bash
 $ cd <ros workspace>
 ```
