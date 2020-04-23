@@ -19,7 +19,7 @@ Step3. Find line 1349 in code.
 ---if use QHD camera.
 
 
-------std::string topicColor = "/" + ns + K2_TOPIC_QHD + K2_TOPIC_IMAGE_MONO;
+------then std::string topicColor = "/" + ns + K2_TOPIC_QHD + K2_TOPIC_IMAGE_MONO;
 
 
 Step2. Run Kinect V2 camera calibration.
