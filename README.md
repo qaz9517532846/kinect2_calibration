@@ -21,8 +21,21 @@ Step3. Find line 1349 in code.
 
 ------then std::string topicColor = "/" + ns + K2_TOPIC_QHD + K2_TOPIC_IMAGE_MONO;
 
+Step4. Find line 496 in code.
 
-Step2. Run Kinect V2 camera calibration.
+
+---if use HD camera.
+
+
+------then sizeColor(1080, 960);
+
+---if use QHD camera.
+
+
+------then sizeColor(960, 540);
+
+
+Step5. Run Kinect V2 camera calibration.
 ``` bash
 $ rosrun kinect2_calibration kinect2_calibration
 ```
