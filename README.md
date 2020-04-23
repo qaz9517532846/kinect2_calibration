@@ -15,7 +15,7 @@ Step3. Find line 1349 in code.
 ---if use HD camera.
 
 
-------then std::string topicColor = "/" + ns + K2_TOPIC_HD + K2_TOPIC_IMAGE_MONO;
+------then std::string topicColor = "/" + ns + K2_TOPIC_HD + K2_TOPIC_IMAGE_MONO; + this will be highlighted in green
 
 ---if use QHD camera.
 
