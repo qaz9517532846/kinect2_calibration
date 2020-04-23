@@ -28,12 +28,12 @@ Step4. Find line 496 in code.
 ---if use HD camera.
 
 
-------then sizeColor(1080, 960);
+------then set sizeColor(1080, 960);
 
 ---if use QHD camera.
 
 
-------then sizeColor(960, 540);
+------then set sizeColor(960, 540);
 
 Step5. return ros workspace.
 ``` bash
