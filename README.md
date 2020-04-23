@@ -5,10 +5,10 @@ Kinect V2 QHD camera calibration.
 Step1. Change camera to edit code.
 
 
-Open src/kinect2_calibration.cpp file.
+Step2. Open src/kinect2_calibration.cpp file.
 
 
-Find line 1349 in code.
+Step3. Find line 1349 in code.
 
 
 ---if use HD camera.
