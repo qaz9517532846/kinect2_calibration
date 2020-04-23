@@ -1,7 +1,7 @@
 # kinect2_calibration
 Kinect V2 QHD camera calibration.
 
-Need download [iai_kinect2](https://github.com/code-iai/iai_kinect2).
+Need download [iai_kinect2](https://github.com/code-iai/iai_kinect2) .
 
 Step1. Change camera to edit code.
 
